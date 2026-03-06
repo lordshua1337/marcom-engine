@@ -123,7 +123,7 @@ export default function HomePage() {
             marginBottom: 24,
           }}
         >
-          INTERNAL PLATFORM v0.1
+          Marketing automation
         </div>
 
         <h1
@@ -135,7 +135,8 @@ export default function HomePage() {
             color: "var(--text-primary)",
           }}
         >
-          Marcom Engine
+          One dashboard.<br />
+          <span style={{ color: "var(--accent)" }}>Every channel.</span>
         </h1>
 
         <p
@@ -147,8 +148,9 @@ export default function HomePage() {
             margin: "0 auto 40px",
           }}
         >
-          Internal marketing automation platform. Email campaigns, social
-          posting, AI creative -- one mission control dashboard.
+          Email campaigns, social posting, AI-generated creative, and contact
+          intelligence. Stop switching between 7 tools -- run it all from
+          mission control.
         </p>
 
         <div
@@ -306,7 +308,7 @@ export default function HomePage() {
             fontFamily: "var(--font-mono)",
           }}
         >
-          MARCOM ENGINE v0.1 -- Internal Use Only
+          Marcom Engine
         </span>
       </footer>
     </div>
